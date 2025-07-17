@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Will von Geldern"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Testing if this works.
+Welcome to my website! I am a PhD candidate at the University of Washington's Evans School of Public Policy and Governance. I use mixed methods to study how public policies affect the health and wellbeing of low-income people in the U.S. My research uses theoretical frameworks from public policy and administration, sociology and socio-legal studies, and behavioral science.
 
 A data-driven personal website
 ======
